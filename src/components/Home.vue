@@ -367,7 +367,7 @@
           style="width: 23rem"
         >
           <dotlottie-player
-            src="~/../../public/assets/img/news.lottie"
+            src="/../../public/assets/img/news.lottie"
             class="card-img-top bg-white w-100"
             background="transparent"
             speed="1"
