@@ -252,7 +252,7 @@
           style="width: 23rem"
         >
           <dotlottie-player
-            src="../../public/assets/img/Animation - 1714355779066.lottie"
+            src="~/../../public/assets/img/Animation - 1714355779066.lottie"
             class="card-img-top bg-white w-100"
             background="transparent"
             speed="1"
@@ -275,7 +275,7 @@
           style="width: 23rem"
         >
           <dotlottie-player
-            src="../../public/assets/img/thecode.lottie"
+            src="~/../../public/assets/img/thecode.lottie"
             class="card-img-top bg-white w-100"
             background="transparent"
             speed="1"
@@ -298,7 +298,7 @@
           style="width: 23rem"
         >
           <dotlottie-player
-            src="../../public/assets/img/portofolio.lottie"
+            src="~/../../public/assets/img/portofolio.lottie"
             class="card-img-top bg-white w-100"
             background="transparent"
             speed="1"
@@ -321,7 +321,7 @@
           style="width: 23rem"
         >
           <dotlottie-player
-            src="../../public/assets/img/review.lottie"
+            src="~/../../public/assets/img/review.lottie"
             class="card-img-top bg-white w-100"
             background="transparent"
             speed="1"
@@ -344,7 +344,7 @@
           style="width: 23rem"
         >
           <dotlottie-player
-            src="../../public/assets/img/email.lottie"
+            src="~/../../public/assets/img/email.lottie"
             class="card-img-top bg-white w-100"
             background="transparent"
             speed="1"
@@ -367,7 +367,7 @@
           style="width: 23rem"
         >
           <dotlottie-player
-            src="../../public/assets/img/news.lottie"
+            src="~/../../public/assets/img/news.lottie"
             class="card-img-top bg-white w-100"
             background="transparent"
             speed="1"
